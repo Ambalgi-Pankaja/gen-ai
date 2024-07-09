@@ -7,7 +7,7 @@
 * AWS Lambda
 * AWS S3
 
-![Block diagram of app.](../../assets/blog/blog_e2e.png)
+![Block diagram of app.](../assets/blog/blog_e2e.png)
 
 My first Hello World project in the world of GenAI involves crafting a 100-word blog post. I opted for the AWS Bedrock service, tapping into the Llama2 LLM model for this task. Among the array of LLM options offered by AWS Bedrock, Llama stood out for its cost-free accessibility. Built on the Transformer architecture, Llama models excel in processing input sequences of varying lengths and producing outputs of flexible sizes.
 
